@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bonifacio Ronald, an undergraduate student in Taylor's University, Malaysia
-- 👀 I’m interested in Cross-Platform Mobile App Development
+- 👀 I'm majoring in Computer Science and specializes in Mobile Computing
 - 🌱 I’m currently learning Flutter and all its nooks and crannies
 - 📫 You can reach me by my email bonifacioronald99@gmail.com or through my LinkedIn linkedin.com/in/bonifacio-ronald
 
