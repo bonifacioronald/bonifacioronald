@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Bonifacio Ronald, an undergraduate student in Taylor's University, Malaysia
-- 👀 I'm majoring in Computer Science and specializes in Mobile Computing
-- 🌱 I’m currently learning Flutter and all its nooks and crannies
-- 📫 You can reach me by my email bonifacioronald99@gmail.com or through my LinkedIn linkedin.com/in/bonifacio-ronald
+- 📫 You can reach me by my email bonifacioronald.dev@gmail.com or through my LinkedIn linkedin.com/in/bonifacio-ronald
 
 <!---
 bonifacioronald/bonifacioronald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
